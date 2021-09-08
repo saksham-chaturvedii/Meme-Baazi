@@ -1,7 +1,7 @@
 {
   "name": "meme-generator",
   "version": "0.1.0",
-  "homepage": "https://github.com/saksshham/Meme-Baazi",
+  "homepage": "https://saksshham.github.io/Meme-Baazi",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
