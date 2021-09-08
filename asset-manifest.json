@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/saksshham/Meme-Baazi/static/css/main.bec41899.chunk.css",
+    "main.js": "/saksshham/Meme-Baazi/static/js/main.77919eaf.chunk.js",
+    "main.js.map": "/saksshham/Meme-Baazi/static/js/main.77919eaf.chunk.js.map",
+    "runtime-main.js": "/saksshham/Meme-Baazi/static/js/runtime-main.fc7091cf.js",
+    "runtime-main.js.map": "/saksshham/Meme-Baazi/static/js/runtime-main.fc7091cf.js.map",
+    "static/js/2.6ed0271a.chunk.js": "/saksshham/Meme-Baazi/static/js/2.6ed0271a.chunk.js",
+    "static/js/2.6ed0271a.chunk.js.map": "/saksshham/Meme-Baazi/static/js/2.6ed0271a.chunk.js.map",
+    "index.html": "/saksshham/Meme-Baazi/index.html",
+    "static/css/main.bec41899.chunk.css.map": "/saksshham/Meme-Baazi/static/css/main.bec41899.chunk.css.map",
+    "static/js/2.6ed0271a.chunk.js.LICENSE.txt": "/saksshham/Meme-Baazi/static/js/2.6ed0271a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc7091cf.js",
+    "static/js/2.6ed0271a.chunk.js",
+    "static/css/main.bec41899.chunk.css",
+    "static/js/main.77919eaf.chunk.js"
+  ]
+}
